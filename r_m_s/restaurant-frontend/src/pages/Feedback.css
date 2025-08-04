@@ -1,0 +1,18 @@
+.feedback-wrapper {
+  max-width: 700px;
+  margin: auto;
+}
+
+.feedback-wrapper .card {
+  background: #fdfdfd;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+}
+
+.feedback-wrapper .card:hover {
+  transform: translateY(-2px);
+}
+
+.feedback-wrapper .list-group-item {
+  background-color: #f9f9f9;
+}
